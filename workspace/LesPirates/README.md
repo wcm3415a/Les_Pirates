@@ -1,2 +1,0 @@
-# LesGaulois
-TPs POO
